@@ -1,3 +1,5 @@
 *.png
 *.tex
 raw/
+figures/leaderboard/analysis/
+figures/raw_runs/
