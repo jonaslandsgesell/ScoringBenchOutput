@@ -1,7 +1,3 @@
-*.pyc
-*.tex
-*.log
 *.png
-*.csv
-*.pdf
+*.tex
 raw/
