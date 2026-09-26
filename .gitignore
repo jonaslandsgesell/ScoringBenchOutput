@@ -1,5 +1,5 @@
 *.png
 *.tex
-raw/
+*/raw/
 figures/leaderboard/analysis/
 figures/raw_runs/
